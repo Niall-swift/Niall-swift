@@ -1,6 +1,6 @@
 ### Olá! Me chamo Josué 👋
 
-Sou um Desenvolvedor Frontend com experiência em React JS, JavaScript, Html5, Css3 e Firebase. Sou apaixonado por criar interfaces de usuário intuitivas e responsivas usando as tecnologias mais recentes. Tenho habilidades em React, uma biblioteca JavaScript desenvolvida pelo Facebook e amplamente utilizada por empresas de tecnologia, bem como em Firebase, uma plataforma de desenvolvimento de aplicativos móveis e web do Google que oferece uma variedade de serviços, incluindo hospedagem, autenticação e banco de dados em tempo real. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos interessantes. Entre em contato comigo para saber mais sobre minhas experiências e como posso ajudar sua empresa a alcançar seus objetivos
+Olá sou um desenvolvedor frontend com experiência em React JS, JavaScript, Html5, Css3 e Firebase. Sua paixão por criar interfaces de usuário intuitivas e responsivas usando as tecnologias mais recentes é admirável. É importante estar sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos interessantes.
 
 <div align="center">
   <a href="https://github.com/Niall-swift">
