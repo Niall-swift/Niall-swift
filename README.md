@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor frontend com experiência em React JS, JavaScript, Html5, Css3, NodeJS e Firebase. Sua paixão por criar interfaces de usuário intuitivas e responsivas usando as tecnologias mais recentes é admirável. É importante estar sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos interessantes.
 
-<div align="center">
+<div align="center style="display: flex"">
   <a href="https://github.com/Niall-swift">
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niall-swift&count_private=true&show_icons=true&theme=radical" /> </p>
  
