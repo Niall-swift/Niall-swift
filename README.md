@@ -13,7 +13,7 @@ Sou um desenvolvedor frontend com experiência em React JS, JavaScript, Html5, C
 
  
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
-  <img align="center" alt="Rafa-nodejs" height="50" width="50" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667">
+  <img align="center" alt="Rafa-nodejs" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
   <img align="center" alt="Rafa-firebase" height="90" width="90" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_black.svg">
   <img align="center" alt="Rafa-sql" height="50" width="50" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg">
   <img align="center" alt="Rafa-Jquery" height="50" width="50" src="https://www.svgrepo.com/show/452242/jquery.svg">
