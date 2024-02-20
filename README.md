@@ -1,31 +1,26 @@
-### Olá! Me chamo Josué 👋
+# 💫 About Me:
+🌱 Olá!
+Estou atualmente em formação pelo curso livre de Desenvolvedor Full Stack Python na EBAC– Escola Britânica
+ de Artes Criativas e Tecnologia. Sou um profissional com um perfil altamente adaptável e comunicativo,
+ destacando a soft skill de empatia como uma das minhas principais qualidades. Tenho experiência na área de
+ estudo Front-End | web, onde tenho trabalhado em diversos projetos desafiadores. Minha paixão por
+ desenvolvimento web e tecnologia me levou a buscar aprimorar constantemente minhas. Habilidades técnicas em
+ (Javascript | React | CSS | HTML).
+ No decorrer da minha jornada de estudo, destaco um projeto relevante, como o desenvolvimento de um aplicativo
+ web de pedidos online com React e Firebase, onde eu pude me desafiar e entregar um resultado eficaz e
+ eficiente. 
 
-Sou um desenvolvedor frontend com experiência em React JS, JavaScript, Html5, Css3, NodeJS e Firebase. Sua paixão por criar interfaces de usuário intuitivas e responsivas usando as tecnologias mais recentes é admirável. É importante estar sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos interessantes.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/niallswift#9177) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-ramos-dev/) 
 
-<div align="center" style="display: flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niall-swift&count_private=true&show_icons=true&theme=radical"/>
-  
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Niallswift&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Niallswift&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niallswift&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Niallswift&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<div style="display: flex"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
-  <img align="center" alt="Rafa-nodejs" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
-  <img align="center" alt="Rafa-firebase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="Rafa-sql" height="50" width="50" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg">
-  <img align="center" alt="Rafa-Jquery" height="50" width="50" src="https://www.svgrepo.com/show/452242/jquery.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/niall_swift_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:niallswift14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josu%C3%A9-ramos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
