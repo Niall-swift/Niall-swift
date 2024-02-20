@@ -4,7 +4,7 @@ Sou um desenvolvedor frontend com experiência em React JS, JavaScript, Html5, C
 
 <div align="center" style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niall-swift&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niall-swift&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
 
 
