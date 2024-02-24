@@ -5,9 +5,9 @@ Estou atualmente em formação pelo curso livre de Desenvolvedor Full Stack Pyth
  destacando a soft skill de empatia como uma das minhas principais qualidades. Tenho experiência na área de
  estudo Front-End | web, onde tenho trabalhado em diversos projetos desafiadores. Minha paixão por
  desenvolvimento web e tecnologia me levou a buscar aprimorar constantemente minhas. Habilidades técnicas em
- (Javascript | React | CSS | HTML).
+ (Javascript | React | CSS | HTML | PostgreSQL | Typescript | Nodejs).
  No decorrer da minha jornada de estudo, destaco um projeto relevante, como o desenvolvimento de um aplicativo
- web de pedidos online com React e Firebase, onde eu pude me desafiar e entregar um resultado eficaz e
+ web de pedidos online com Reactjs e PostgreSQL, onde eu pude me desafiar e entregar um resultado eficaz e
  eficiente. 
 
 ## 🌐 Socials:
