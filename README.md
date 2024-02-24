@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Olá! me chamor Josué 
+🌱 Olá! me chamo  Josué 
 Estou atualmente em formação pelo curso livre de Desenvolvedor Full Stack Python na EBAC– Escola Britânica
  de Artes Criativas e Tecnologia. Sou um profissional com um perfil altamente adaptável e comunicativo,
  destacando a soft skill de empatia como uma das minhas principais qualidades. Tenho experiência na área de
