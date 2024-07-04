@@ -1,14 +1,8 @@
 # 💫 About Me:
 🌱 Olá! me chamo  Josué 
-Estou atualmente em formação pelo curso livre de Desenvolvedor Full Stack Python na EBAC– Escola Britânica
- de Artes Criativas e Tecnologia. Sou um profissional com um perfil altamente adaptável e comunicativo,
- destacando a soft skill de empatia como uma das minhas principais qualidades. Tenho experiência na área de
- estudo Front-End | web, onde tenho trabalhado em diversos projetos desafiadores. Minha paixão por
- desenvolvimento web e tecnologia me levou a buscar aprimorar constantemente minhas. Habilidades técnicas em
- (Javascript | React | CSS | HTML | PostgreSQL | Typescript | Nodejs).
- No decorrer da minha jornada de estudo, destaco um projeto relevante, como o desenvolvimento de um aplicativo
- web de pedidos online com Reactjs e PostgreSQL, onde eu pude me desafiar e entregar um resultado eficaz e
- eficiente. 
+estou em formação pelo curso livre de Desenvolvedor Full Stack Python na EBAC - Escola Britânica de Artes Criativas e Tecnologia, onde aprendo as principais ferramentas e conceitos para criar aplicações web dinâmicas e responsivas.
+
+Tenho conhecimento em front-end web, com destaque para React, Firebase, HTML, CSS e JavaScript. Um dos meus projetos relevantes foi o desenvolvimento de um aplicativo web de pedidos online, onde pude me desafiar e entregar um resultado eficaz e eficiente. Minha paixão por desenvolvimento web e tecnologia me motiva a buscar aprimorar constantemente minhas habilidades técnicas e soft skills, como adaptabilidade, comunicação e empatia. Meu objetivo é me tornar um profissional qualificado e criativo na área de web development.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/niallswift#9177) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-ramos-dev/) 
